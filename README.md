@@ -15,3 +15,6 @@ $ javac -d . *.java
 # java bawal_pasaway.PWManager
 
 ```
+
+NOTE: you can just delete the java files once the classes inside the package were created 
+

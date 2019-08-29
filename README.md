@@ -12,7 +12,7 @@ $ javac -d . *.java
 ## Run
 
 ```
-# java bawal_pasaway.PWManager
+$ java bawal_pasaway.PWManager
 
 ```
 
